@@ -1,6 +1,7 @@
 # Ayoquran
 
-Read Quran At Your Terminal ;)
+Read Quran At Your Terminal ;) <br>
+use jq on ur terminal
 # screenshot
 ![screenshot](https://i.ibb.co/SQ0Kg3Z/Whats-App-Image-2022-04-26-at-21-01-40.jpg)
 
